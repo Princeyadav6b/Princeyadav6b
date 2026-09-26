@@ -9,12 +9,7 @@
 
 ### 👨‍💻 About Me
 
-*   🔭 I’m currently working on **[Insert your current project]**
-*   🌱 I’m currently learning **[Insert framework/language, e.g., React, Go, Machine Learning]**
-*   👯 I’m looking to collaborate on **[Insert type of open-source projects]**
-*   💬 Ask me about **[Insert your strong subjects, e.g., Data Structures, API Development]**
-*   📫 How to reach me: **[Insert your email]**
-*   ⚡ Fun fact: **[Insert a brief, interesting fact about yourself]**
+
 
 ---
 
@@ -22,10 +17,9 @@
 
 <!-- Replace the badges below with the tools you actually use. You can find more at https://devicon.dev/ -->
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+ 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
